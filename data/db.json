@@ -1,24 +1,6 @@
 {
   "blogs": [
     {
-      "title": "My New Website",
-      "body": "Lorem Ipsum. ini cerita tentang saya Muhammad Reihan Mansiz sebagai kawan Zahran",
-      "author": "Mansiz",
-      "id": 1
-    },
-    {
-      "title": "My New Project",
-      "body": "Lorem Ipsum ini perjalanan saya menjadi shinobi nomor 1 bersama bang mansiz",
-      "author": "Zahran",
-      "id": 2
-    },
-    {
-      "title": "Zahran dan Bang Mansiz",
-      "body": "kisah yang menceritakan pertemanan mansiz dengan zahran",
-      "author": "Mario",
-      "id": 3
-    },
-    {
       "title": "Zahran dan Bayu",
       "body": "kisah tentang perjalana merek untuk menjadi programmer ",
       "author": "Mario",

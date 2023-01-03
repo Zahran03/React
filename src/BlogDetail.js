@@ -23,7 +23,7 @@ const BlogDetail = () => {
                     <h2>{blog.title}</h2>
                     <p>{blog.author}</p>
                     <div>{blog.body}</div>
-                    <button onClick={handleDelete}>Delete this Blog</button>
+                    <button className="buttonDetail" onClick={handleDelete}>Delete this Blog</button>
                 </article>
              )}
         </div>
