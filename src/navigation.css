@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: aqua;
+    font-style: arial;
+    height: 50px;
+    width: 100%;
+}
+
+
+ul {
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+}
+
+ul > li {
+    list-style: none;
+    margin-right: 7px;
+    font-weight: 500; 
+}
+
+ul > li > a {
+    text-decoration: none;
+}
